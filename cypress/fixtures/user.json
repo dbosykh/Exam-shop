@@ -1,0 +1,12 @@
+{
+  "email": "Marcelle_Fay@gmail.com",
+  "password": "pE7qrACpZUuKd4z1!",
+  "passwordRepeat": "pE7qrACpZUuKd4z1!",
+  "securityQuestion": {
+      "id": 12,
+      "question": "Your favorite movie?",
+      "createdAt": "2023-03-13T09:06:58.691Z",
+      "updatedAt": "2023-03-13T09:06:58.691Z"
+  },
+  "securityAnswer": "invoice"
+}
